@@ -9,7 +9,7 @@
 
 
 
-<img src="README.assets/python-logo.png">
+<a href="www.python.org" style="display: block; margin: 0 auto; transform: translate(-50%, -50%);"><img src="README.assets/python-logo.png" ></a>
 
-<img src="README.assets/should-i-learn-javascript-or-typescript.jpeg&nocache=1" style="width: 40%">
+<a href="#" style="display: block; margin: 0 auto; transform: translate(-50%, -50%);"><img src="README.assets/should-i-learn-javascript-or-typescript.jpeg&nocache=1" style="width: 30%;"></a>
 
