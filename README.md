@@ -5,7 +5,7 @@
 
 :stuck_out_tongue_closed_eyes: <font color=#f70a8d>Now let's focus on the code and solve the actual requirements!</font>
 
-
+🤐At present, there are only Chinese documents, and English documents will be supplemented in my spare time
 
 
 
