@@ -6,8 +6,8 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false)<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=LeroyK111&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 All Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
