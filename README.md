@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am currently building large projects in Python and TypeScript.<br>👯 I might be looking for someone to work with.<br>🤝 I hope it's with a genius like you.<br>🌱 I am currently learning about RUST and Dart.<br>💬 Beginners are welcome to ask me questions.<br>⚡ Expect interesting questions!<br>
+🔭 I am currently building large projects in Python and TypeScript.<br>👯 I might be looking for someone to work with.<br>🤝 I hope it's with a genius like you.<br>🌱 I am currently learning about Rust and Dart.<br>💬 Beginners are welcome to ask me questions.<br>⚡ Expect interesting questions!<br>
 
 😁 Programmers make the world better.
 
