@@ -7,7 +7,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false)<br/>
 
 ## 🏆 All Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
