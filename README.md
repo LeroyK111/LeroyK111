@@ -3,15 +3,9 @@
 
 😁 Programmers make the world better.
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 <!-- 语言统计：多域名 + 缓存 + 隐藏前端语言 -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript&theme=dark&cache_seconds=86400" alt="Top Languages" onerror="this.src='https://stats.leroyk111.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript&theme=dark&cache_seconds=86400'; this.onerror=null;" />
-
-## 🏆 All Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ## 🏆 All Languages
 <!-- 语言统计：多域名 + 缓存 + 隐藏前端语言 + 暗色主题 -->
@@ -19,7 +13,7 @@
      alt="Top Languages" 
      onerror="this.src='https://stats.leroyk111.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript&theme=dark&cache_seconds=86400'; this.onerror=null;" />
 
-### ✍️ Random Dev Quote
+## ✍️ Random Dev Quote
 <!-- 随机开发者语录：暗色主题 + 水平布局 -->
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote" />
 
