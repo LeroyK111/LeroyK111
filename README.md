@@ -4,7 +4,9 @@
 😁 Programmers make the world better.
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false)<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false" 
+           alt="LeroyK111's GitHub Streak" /><br/>
+
 
 ## 🏆 All Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LeroyK111&layout=compact&hide=css,html,less,scss,sass,vue,react,batchfile,vbscript)
