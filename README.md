@@ -4,8 +4,8 @@
 😁 Programmers make the world better.
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false" 
-           alt="LeroyK111's GitHub Streak" /><br/>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=LeroyK111&theme=dark&hide_border=false)</br>
 
 
 ## 🏆 All Languages
